@@ -1,3 +1,9 @@
 # Strapi application
 
-A quick description of your strapi application
+## DJ-Events
+```
+npm install
+```
+```
+npm run develop
+```
